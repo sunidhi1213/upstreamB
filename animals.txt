@@ -1,8 +1,5 @@
-<<<<<<< HEAD
-lion sunidhi contributorB change 
-=======
+lion sunidhi 
 lion contributorA
->>>>>>> c158c0a8d980b1eb17af576deab4b672e86d1ae4
 tiger
 leopard
 turtle
