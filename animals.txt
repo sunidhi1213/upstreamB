@@ -1,4 +1,4 @@
-lion contributorB
+lion contributorA
 tiger
 leopard
 turtle
